@@ -1,3 +1,4 @@
-Texto novo aqui parceiro
+text here
 
-Textinho continua aqui
+
+next line text
